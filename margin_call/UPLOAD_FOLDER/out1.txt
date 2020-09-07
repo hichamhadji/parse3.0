@@ -1,0 +1,43 @@
+alecta
+
+Regeringsgatan 107
+
+103 73 Stockholm
+
+Sweden
+
+Phone: +46 8 441 68 30
+
+Fax: +46 8 20 75 44
+
+Email: BusinessSupport@alecta.com
+
+Margin Call notice
+
+Citigroup Global Markets Limited
+Mail Drop CGC 05-66
+
+33 Canada Square, Canary Wharf
+London E14 SLB
+
+United Kingdom
+
+Phone. +44 207 986 4108
+Facsimile: +44 207 192 3222
+Email: OTCmargining@citi.com
+
+Exposure date 2017-01—16
+Figures in Base currency (EUR)
+
+Exposure EUR 32 691 039
+After Haircut Value of Collateral Pending —23 432 000
+Credit Support amount 9 259 039
+Credit Support amount (rounded) 9 260 000
+
+Minimum Transfer Amount 2 500 000
+
+Rounding Amount 10 000
+
+Margin Call for Citigroup
+EUR 9 260 000
+Value date 2017-01—18

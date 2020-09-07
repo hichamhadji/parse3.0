@@ -1,0 +1,10 @@
+docx2txt==0.8
+Flask==1.1.1
+glob2==0.7
+nltk==3.4.5
+numpy==1.18.2
+olefile==0.46
+pandas==0.25.3
+pdf2image==1.12.1
+Pillow==7.0.0
+pytesseract==0.3.3

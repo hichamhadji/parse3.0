@@ -1,0 +1,7 @@
+setuptools
+olefile
+glob3
+flask
+Werkzeug
+nltk
+glob2

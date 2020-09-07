@@ -1,0 +1,14 @@
+Invoked on Mon Mar 23 08:58:59 UTC 2020 with arguments: -loadClassifier ./margin_call/MarginClassModel.ser.gz -testFile ./margin_call/UPLOAD_FOLDER/Variation_Demand_Banca_IMI_SPA_CITIBANK/Margin_data.test
+Loading classifier from ./margin_call/MarginClassModel.ser.gz ... done [0.3 sec].
+Setting ColumnDataClassifier properties
+testFile = ./margin_call/UPLOAD_FOLDER/Variation_Demand_Banca_IMI_SPA_CITIBANK/Margin_data.test
+loadClassifier = ./margin_call/MarginClassModel.ser.gz
+Reading dataset from ./margin_call/UPLOAD_FOLDER/Variation_Demand_Banca_IMI_SPA_CITIBANK/Margin_data.test ... done [0.1s, 1 items].
+Output format: dataColumn1	goldAnswer	classifierAnswer	P(clAnswer)	P(goldAnswer)
+please find attached margin call notice exposure statement position statement variation demand cob jan regards banca imi spa prima di stampare pensa ambiente think environment printing e mail subject terms available following link https urldefense proofpoint com v url u http www bancaimi com bancaimi email fdisclaimer html dqifag c j ekbjbywkab f zbvn fw r wfkqrqqa xc ittyiay yv voibwliu c cyny u jsh q dr icydhj wkglo gfbyk fae vr e olze lcsxmejh axwnggiaif hzlo zp l sb ha np iueq e please read hyperlink carefully contains conditions governing electronic communications banca imi spa messaging banca imi spa agree terms conditions use banca imi spa may amend terms conditions time without notice check relevant webpage time time review current terms conditions binding received transmission error please immediately contact sender destroy material entirety whether electronic hard copy format please note intended recipient hereby notified disclosure copying distribution use information contained herein including reliance thereon strictly prohibited may unlawful	Callin	Callout	1.000	0.000
+
+1 examples in test set
+Cls Callin: TP=0 FN=1 FP=0 TN=0; Acc 0.000 P 1.000 R 0.000 F1 0.000
+Cls Callout: TP=0 FN=0 FP=1 TN=0; Acc 0.000 P 0.000 R 1.000 F1 0.000
+Accuracy/micro-averaged F1: 0.00000
+Macro-averaged F1: 0.00000

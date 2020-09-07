@@ -1,0 +1,20 @@
+SUB:Margin Statement - Thames Water Pension Scheme - Citi GM - (LDI) - 1721ENTITY Thames Water Pension Scheme - Citi GM - (LDI)
+SCHRODERS ACTING AS AGENT ON BEHALF OF: Thames Water Pension Scheme - Citi GM - (LDI)
+Please review the margin call details in this message for all derivative transactions between yourselves and the entity named above. Summary information for this margin call can be seen below.
+Please contact Schroders Derivative Operations group to confirm margin call and arrange settlement amount and value date.
+SUMMARY (All figures shown in GBP)
+
+MTM	(4,415,479.38)	Independent Amount	0.00	Unsettled Trades	            0.00	Collateral balance	4,566,552.39	Current exposure	151,073.01	 	 	Movement (from) / due to Schroders	160,000.00	
+Net margin requirement figures are derived using Schroders Investment Management valuation data.
+DETAILS
+A positive Current Exposure number indicates that that the position is in the money for Schroders' clients
+A positive 'Movement (from) / due to Schroders' indicates that Schroders' clients are a receiver of collateral.
+CONTACTS
+Contact:	Schroders Collateral Operations	Email:	Derivative.Operations@Schroders.com	Tel:	0207 658 5942	Fax:	0207 658 5476	DISCLAIMER
+Attached is a summary of Schroders' current exposures to you arising out of transactions between us in the products identified in the report, including your current margin requirements as determined by methods upon which we have previously agreed. 
+The report is intended solely for your own use
+Visit Schroders Talking Point for market news and expert views http://www.schroders.com/talkingpoint 
+ 
+This email is confidential and is for the addressee only. If it has been sent to you in error, please do not forward it or copy it or act on its contents, but report it to postmaster@schroders.com.  For important disclaimers and regulatory information, please refer to www.schroders.com (Privacy Statement; and Important Information). 
+ 
+Schroder Investment Management Limited is authorised and regulated by the Financial Conduct Authority (FCA reference number 119348).  Registered in England and Wales under company number 1893220 with registered office address at 31 Gresham Street, London EC2V 7QA.  VAT identification number GB 243 8687 30.
